@@ -1,4 +1,6 @@
-<h2 align="center">🛠 Teck Stack</h2>
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=👋&nbsp;Dong's&nbsp;github&fontSize=70&animation=twinkling)
+
+<h2 align="center">💻 Teck Stacks 💻</h2>
 
 <div align="center">
   <!--  langs  -->
@@ -23,7 +25,7 @@
   <br />
 </div>
 
-<h2 align="center">💻 Github status</h2>
+<h2 align="center">💻 Github Status</h2>
 
 <table align="center">
   <tr>
