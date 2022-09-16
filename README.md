@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <br />
 </div>
+<br />
 
 <h2 align="center">📟 Github Status 📟</h2>
 
